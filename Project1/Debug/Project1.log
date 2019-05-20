@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\sos13\source\repos\project1\project1\소스.c(467): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+c:\users\sos13\source\repos\project1\project1\소스.c(468): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '~'이(가) 있습니다.
+c:\users\sos13\source\repos\project1\project1\소스.c(468): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+c:\users\sos13\source\repos\project1\project1\소스.c(469): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+  Project1.vcxproj -> C:\Users\sos13\source\repos\Project1\Debug\Project1.exe
